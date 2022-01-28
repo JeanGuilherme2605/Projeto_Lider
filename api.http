@@ -1,0 +1,11 @@
+//create
+POST http://localhost:4000/user 
+Content-Type: application/json
+
+{
+  "nome": tv sala,
+  "descricao:" tv de 50 Pol
+
+}
+### findall
+get http://localhost:4000/users
